@@ -584,7 +584,6 @@ class _LineChartWidget extends StatelessWidget {
           ),
         ),
       ),
-      duration: const Duration(milliseconds: 400),
     );
   }
 }
@@ -705,7 +704,6 @@ class _BarChartWidget extends StatelessWidget {
           );
         }).toList(),
       ),
-      duration: const Duration(milliseconds: 400),
     );
   }
 }

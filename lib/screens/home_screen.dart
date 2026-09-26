@@ -532,7 +532,6 @@ class _FloatingStat extends StatelessWidget {
         color: AppColors.white.withOpacity(0.12),
         borderRadius: BorderRadius.circular(12),
         border: Border.all(color: AppColors.white.withOpacity(0.2)),
-        backdropFilter: null,
       ),
       child: Column(
         children: [
